@@ -1,4 +1,4 @@
-# Division of Robot and Daemon Research and Development (DRDRD)
++# Division of Robot and Daemon Research and Development (DRDRD)
 -# Numera Illegal Acquisition and Experimental Research Unit
  I'll fill this in some other time, this is placeholder text.
 ## Persons of Interest
