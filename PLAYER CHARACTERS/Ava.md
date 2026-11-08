@@ -1,16 +1,16 @@
-*(Avalyn Park)*
+# Avalyn Park
 
-|           |                                              |         |                  |
-| --------- | -------------------------------------------- | ------- | ---------------- |
-| Class     | [[Beam Saber V1.2.pdf#page=139\|Technician]] | Species | Human            |
-| Pronouns  | She/They                                     | Age     | 31               |
-| Call Sign | Dead Eye                                     | Squad   | Argent Logistics |
-| Position  | Technician                                   | Faction | SarCo            |
-|           | TerraForma Engineer (former)                 | Base    |                  |
-| Mech      |                                              |         |                  |
-| Partner   | Xiaohua                                      |         |                  |
-| Rival     | Scarlet Russle                               |         |                  |
-| Tags      | #Ava #Avalyn                                 |         |                  |
+|           |                                              |         |                   |
+| --------- | -------------------------------------------- | ------- | ----------------- |
+| Class     | [[Beam Saber V1.2.pdf#page=139\|Technician]] | Species | Human             |
+| Pronouns  | She/They                                     | Age     | 31                |
+| Call Sign | Dead Eye                                     | Squad   | Argent Logistics  |
+| Position  | Technician                                   | Faction | SarCo             |
+|           | TerraForma Engineer (former)                 | Base    | Airgent Logistics |
+| Mech      |                                              |         |                   |
+| Partner   | Xiaohua Li                                   |         |                   |
+| Rival     | Scarlet Russle                               |         |                   |
+| Tags      | #Ava #Avalyn #Avalyn/Park                    |         |                   |
 
 Personality:
 Ava puts on a punk mask but actually values security. And safety

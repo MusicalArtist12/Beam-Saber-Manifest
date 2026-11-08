@@ -12,3 +12,5 @@ DAGGR
 Other:
 Terraforma Heavy Industries
 Status: Bankrupt
+
+ "If someone told [[SarCo]] 'over my dead body,' they'd do it over their dead body." - Ava

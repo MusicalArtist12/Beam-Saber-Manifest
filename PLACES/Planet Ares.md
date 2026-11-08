@@ -43,6 +43,10 @@ The tallest mountain on Ares. At its highest elevation, it pierces the exosphere
 ### The Threshold
 Base of [[The Heroes of Ares]]
 
+# Demeter
+
+Second largest city on Ares.
+
 | Images |                                                                                          |
 | ------ | ---------------------------------------------------------------------------------------- |
 |        | ![[Planet Ares.jpg\|218]]![[Aregye Sea.jpg\|175]]![[Peninsula Argent Logistics.jpg\|69]] |

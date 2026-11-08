@@ -46,6 +46,8 @@ The biggest single pilot combat mech ever made, the Titan was originally built a
 
 ## Prim_Rose
 
+![[Prim_Rose.png|200]]
+
 | Class     | Empath                                                            | Species     | Daemon                                     |
 | --------- | ----------------------------------------------------------------- | ----------- | ------------------------------------------ |
 | Pronouns  | They/She                                                          | **Faction** | [[Ephraim]]                                |
@@ -53,7 +55,7 @@ The biggest single pilot combat mech ever made, the Titan was originally built a
 |           | Reverend (former)                                                 |             | Numerated Flock (?)                        |
 | Pact-Mate | [[The Heroes of Ares#Connelly "Connie"/"Nelly" Clover\|Connelly]] | **Mech**    | [[#^Mech: Thornless Rose\|Thornless Rose]] |
 |           |                                                                   | Status      | Alive                                      |
-| Links     | [[Prim_Rose]]                                                     |             | ![[Prim_Rose.png\|100]]                    |
+| Links     | [[Prim_Rose]]                                                     |             |                                            |
 
 [[Prim_Rose]] is a former reverend of the Numerated Flock. They extoll the virtues of TIMEKEEPER, especially that profound and honest connections could solve almost all conflict humanity has. She is a moving diplomat, psionic empath, and in a very public and saccharine relationship with [[The Heroes of Ares#Connelly "Connie"/"Nelly" Clover|Connelly]].
 Physically, Prim_Rose is usually contained within a single unit of her mech's drone swarm which she moves around telepathically to both be able to move around the world and project a local AR field. Visually, they like to appear as eyes within a deeply black silhouette.
@@ -61,19 +63,14 @@ Physically, Prim_Rose is usually contained within a single unit of her mech's dr
 **Mech: Thornless Rose**
 A swarm of vaguely petal shaped drones specialized in non-lethal submission and disabling enemy weaponry. Mix of high tech tricks and psionic might. Often move as a flurry of drifting petals.
 
-| Images |                                                      |
-| ------ | ---------------------------------------------------- |
-|        | ![[Connelly Clover.png\|130]]![[Prim_Rose.png\|147]] |
-
 # BASE: The Threshold
 
-[[Planet Ares#The Threshold|The Threshold]] is a spacious complex perched above the atmosphere on [[Planet Ares#Mount Olympus|Mt.Olympus]], right at the end of the gravity rail. Outdoors is exposed to the vacuum of space. The base is equiped with artificial gravity. It boasts elegant (white?) walls, extravagantly high ceilings, doorways tall enough to accommodate Cosmo, and floor-to-ceiling windows that stretch from one end of the hallway to the other. The windows display images of _ rather than the view of the mountainside. The base contains a large mech bay, extensive storage, Cosmo's lab, an Olympic pool sized indoor lake stocked with fish, retro arcade, well stocked game-closet, a well appointed kitchen including a wood-fired pizza oven, (room next to the lake?), separate rooms for each occupant, a sparse spare room, a multi-bed dorm room for guests, and a vast central space that functions as the living room, dining room, and situation room. The central room contains a fountain large enough to swim in, a couch big enough for (?), and a home-theater set up.
+[[Planet Ares#The Threshold|The Threshold]] is a spacious complex perched above the atmosphere on [[Planet Ares#Mount Olympus|Mt. Olympus]], right at the end of the gravity rail. Outdoors is exposed to the vacuum of space. The base is equipped with artificial gravity. It boasts elegant (white?) walls, extravagantly high ceilings, doorways tall enough to accommodate Cosmo, and floor-to-ceiling windows that stretch from one end of the hallway to the other. The windows display images of _ rather than the view of the mountainside. The base contains a large mech bay, extensive storage, Cosmo's lab, an Olympic pool sized indoor lake stocked with fish, retro arcade, well stocked game-closet, a well appointed kitchen including a wood-fired pizza oven, (room next to the lake?), separate rooms for each occupant, a sparse spare room, a multi-bed dorm room for guests, and a vast central space that functions as the living room, dining room, and situation room. The central room contains a fountain large enough to swim in, a couch big enough for (?), and a home-theater set up.
 
-
-Other persons of interest:
+# Other persons of interest:
 Conscious
 Aleph's brother. 17.
 [[Other People#Lemon Zinger|Lemon Zinger]]
 
 Trivia:
-Once had a sponsorship deal with a local pizza place, but it fell through because delivery was too resource intensive.
+Once had a sponsorship deal with a local pizza place, but it fell through because delivery was too resource intensive. They were ordering pizza three times a week.

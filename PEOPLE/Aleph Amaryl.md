@@ -1,10 +1,11 @@
 
-| Class     |                               | Species | Human                                                    |
+|           |                               |         |                                                          |
 | --------- | ----------------------------- | ------- | -------------------------------------------------------- |
+| Class     |                               | Species | Human                                                    |
 | Pronouns  | He/They                       | Age     | ?                                                        |
 | Call Sign | ?                             | Faction | [[Ephraim]]                                              |
 | Position  | Hero                          |         |                                                          |
-|           |                               | Squad   | [[The Heroes of Ares]]                                       |
+|           |                               | Squad   | [[The Heroes of Ares]]                                   |
 | Mech      | The Blazing Star              | Base    | [[Planet Ares#The Threshold\|The Threshold]]             |
 |           |                               |         |                                                          |
 | Tags      | #Aleph #Amaryl #Blazing #Star |         | ![[Aleph Amaryl.png\|80]] ![[The Blazing Star.png\|137]] |
